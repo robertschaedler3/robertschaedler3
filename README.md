@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertschaedler3&count_private=true&show_icons=true)
+
 <!--
 **robertschaedler3/robertschaedler3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
