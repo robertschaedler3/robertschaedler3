@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertschaedler3&count_private=true&show_icons=true&hide_title=true&&hide=prs,issues,contribs)
+I'm Robert, a student at Stevens Institute of Technology, pursuing a degree in Software Engineering with a minor in Computer Science. I have full-stack experience in cloud security and IoT through many different personal, academic, and professional projects. Check out some of my repos to see what I'm working on.
+
+![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertschaedler3&count_private=true&show_icons=true&hide_title=true&&hide=issues)
 
 <!--
 **robertschaedler3/robertschaedler3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
