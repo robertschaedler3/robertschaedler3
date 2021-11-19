@@ -12,6 +12,5 @@ I work as a Software Engineer at Microsoft on the Intelligent Edge Management (I
 
 ----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=robertschaedler3&count_private=true&hide_title=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertschaedler3&layout=compact&hide=shell,jupyter%20notebook,css,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertschaedler3&layout=compact&hide=shell,jupyter%20notebook,css,scss,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
