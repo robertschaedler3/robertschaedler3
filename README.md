@@ -8,7 +8,7 @@ I work as a Software Engineer at Microsoft on the Intelligent Edge Management (I
 ## Project Highlights
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=azure-osconfig)](https://github.com/Azure/azure-osconfig)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertschaedler3&repo=robertschaedler.com)](https://github.com/Azure/azure-osconfig)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertschaedler3&repo=robertschaedler.com)](https://github.com/robertschaedler3/robertschaedler.com)
 
 <!-- ----
 
