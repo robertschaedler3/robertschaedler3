@@ -10,7 +10,6 @@ I work as a Software Engineer at Microsoft on the Intelligent Edge Management (I
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=azure-osconfig)](https://github.com/Azure/azure-osconfig)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertschaedler3&repo=robertschaedler.com)](https://github.com/Azure/azure-osconfig)
 
-----
+<!-- ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertschaedler3&layout=compact&hide=shell,jupyter%20notebook,css,scss,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertschaedler3&layout=compact&hide=shell,jupyter%20notebook,css,scss,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
